@@ -1,20 +1,18 @@
 # Hi there, I'm Pradeep Sain! 👋
 
-## I'm a passionate MERN stack developer with a keen interest in building scalable web applications. Currently, 
-## I'm focused on mastering React and Node.js while exploring best practices in full-stack development.
+## I'm a passionate MERN stack developer with a keen interest in building scalable web applications. Currently, I'm focused on mastering React and Node.js while exploring best practices in full-stack development.
 
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Startbit IT Solutions Pvt. Ltd.**
 - 🌱 I’m currently learning **MERN Stack and DevOps**
 - 💬 Ask me about 
-- ## Feel free to ask me about anything related to:
 - **Frontend development:** React, Redux, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
 - **Backend development:** Node.js, Express.js, MongoDB, Mongoose
 - **Database design:** MongoDB, SQL
 - **RESTful API design and development**
 - 
-- 📫 How to reach me: ** (https://www.linkedin.com/in/yourusername/)  **
+- 📫 How to reach me: ** (https://www.linkedin.com/in/pradeep-sain-505731211)  **
 
 
 ## 🚀 Skills
@@ -55,7 +53,7 @@ Here are some technologies and tools I work with:
 
 Let's connect and chat! You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- [LinkedIn](https://www.linkedin.com/in/pradeep-sain-505731211)
 
 
 Feel free to reach out if you have any questions or just want to say hi! 😄
